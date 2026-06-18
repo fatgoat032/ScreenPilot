@@ -1,2 +1,6 @@
 .env
-__pycache_
+__pycache__/
+*.pyc
+en_PP-OCRv4_mobile_rec 
+PP-OCRv4_mobile_det
+restore_token.txt
